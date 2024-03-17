@@ -11,6 +11,7 @@ Preview
 -------
 
 ![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
+![image](https://github.com/Ccj0221/facefusion_Zh/assets/129196783/7494de9e-5b3d-4552-9418-77b1ceb4962b)
 
 
 Installation
